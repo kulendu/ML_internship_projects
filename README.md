@@ -1,4 +1,4 @@
-# ML_internship_projects
+# ML_internship_projects_Cosmic-Skills
 
 
 <img src="https://github.com/kulendu/ML_internship_projects/blob/master/images/kisspng-machine-learning-deep-learning-artificial-intellig-stain-removal-5ae1856962b0d5.5178436715247291934042.png" width="300px" height="250px">
