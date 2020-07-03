@@ -1,5 +1,8 @@
 # ML_internship_projects
 
+![cosmic skills logo](https://raw.githubusercontent.com/kulendu/ML_internship_projects/master/images/cosmic-logo-tr.png) 
+<img src="https://github.com/kulendu/ML_internship_projects/blob/master/images/346-3460443_machine-learning-course-near-me-machine-learning-logo.png" width="290px" height="135px">
+
 ## INTRODUCTION :
 
 Hello my name is Kulendu Kashyap Chakraborty, currently a 1st year CSE undergrad student at GIMT, Guwahati. I'm a summer intern at Cosmic Skills taking the Machine Learning course. This is an awesome course, so after completion of the project now its time for the Projects submission. For the projects I'm facing problems in converting the code files into .rar format, so I decided to make this repository and share the links of the consecutive projects in the mail.
