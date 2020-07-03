@@ -1,7 +1,8 @@
 # ML_internship_projects
 
 ![cosmic skills logo](https://raw.githubusercontent.com/kulendu/ML_internship_projects/master/images/cosmic-logo-tr.png) 
-<img src="https://github.com/kulendu/ML_internship_projects/blob/master/images/346-3460443_machine-learning-course-near-me-machine-learning-logo.png" width="290px" height="135px">
+<img src="https://github.com/kulendu/ML_internship_projects/blob/master/images/kisspng-machine-learning-deep-learning-artificial-intellig-stain-removal-5ae1856962b0d5.5178436715247291934042.png" width="300px" height="250px">
+
 
 ## INTRODUCTION :
 
